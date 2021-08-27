@@ -1,0 +1,23 @@
+body{
+    font-family: 'PT Serif', serif;
+    margin: 0;
+}
+h1{
+    font-size: 45px;
+}
+.color-word{
+    color: orange;
+}
+.top-section{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.half-wrap{
+    width: 50%;
+    margin-left: 5px;
+}
+.top-section-image{
+    height: 80%;
+    }
